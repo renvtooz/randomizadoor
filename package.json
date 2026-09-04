@@ -1,0 +1,21 @@
+{
+  "name": "fisica2-randomizador",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Banco de preguntas de Física II: crea preguntas a mano o con IA, sortea evaluaciones distintas por estudiante y expórtalas en lote a Google Forms.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.383.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}

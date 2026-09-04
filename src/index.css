@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #e4e7d5;
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 24px 16px;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
